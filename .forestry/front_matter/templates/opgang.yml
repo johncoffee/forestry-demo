@@ -1,7 +1,6 @@
 ---
 hide_body: true
 fields:
-- type: text
 - type: boolean
   default: true
   label: on or off?
